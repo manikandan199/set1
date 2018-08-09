@@ -1,6 +1,6 @@
-a=int(input("Enter an integer:"))
-if ((a%2)==0):
-    print("the number is even")
+y=int(input("Enter an integer:"))
+if ((y%2)==0):
+    print("even")
 
 else:
-    print("the number is odd")
+    print("odd")
